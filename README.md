@@ -1,6 +1,7 @@
 # Mutual-Fund-Risk-Return-Analysis
 
 Overview:
+
 Nippon India Growth Mid Cap Fund is a long-standing mid-cap scheme that has delivered consistent long-term compounding over the years. While it may not always dominate category discussions, its track record reflects steady wealth creation. This project analyzes the fund across risk-adjusted returns, sector allocation, portfolio positioning, and benchmark performance to understand the drivers behind its outcomes. The objective is to evaluate the fund beyond headline returns by examining risk, valuation profile, and structural exposure.
 
 Evaluation & Analytical Framework:
